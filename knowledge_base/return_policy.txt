@@ -1,0 +1,28 @@
+HORAЕ MERCHANT RETURN POLICY
+Policy Version: 2026.1
+
+1. RETURN WINDOW
+
+Eligible physical products may generally be returned within 7 calendar days from confirmed delivery, subject to product-specific restrictions.
+
+2. CONDITION OF RETURNED ITEMS
+
+Returned products should be in a condition consistent with the approved return reason.
+
+The merchant may inspect returned items for damage, missing accessories, product substitution, or material differences from the original fulfillment record.
+
+3. PRODUCT DEFECT CLAIMS
+
+For PRODUCT_DEFECTIVE_OR_SWAPPED claims, the merchant may compare the returned product against fulfillment records and request supporting evidence.
+
+Where inspection confirms that the returned item does not correspond to the fulfilled product, the merchant may contest the claim.
+
+4. NON-RETURNABLE ITEMS
+
+Certain digital goods, personalized products, and other explicitly identified categories may be excluded from standard physical-product returns.
+
+5. REFUND APPROVAL
+
+A return request does not itself constitute approval of a refund.
+
+Refunds are processed after eligibility and, where applicable, returned-product verification.

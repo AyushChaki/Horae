@@ -1,0 +1,32 @@
+HORAЕ MERCHANT REFUND POLICY
+Policy Version: 2026.1
+
+1. GENERAL REFUND ELIGIBILITY
+
+Customers may request a refund within 7 calendar days of confirmed delivery for eligible physical products.
+
+Refunds are not automatically approved solely because a customer claims dissatisfaction. The merchant may request supporting information and verify the condition of the returned item.
+
+2. ITEM NOT RECEIVED
+
+For an ITEM_NOT_RECEIVED claim, the merchant may provide shipment tracking information, carrier delivery confirmation, delivery timestamps, and proof of delivery.
+
+Where the carrier confirms successful delivery to the shipping address provided during checkout, the merchant may contest an unsupported non-delivery claim.
+
+3. DAMAGED OR DEFECTIVE PRODUCTS
+
+Customers reporting a defective or damaged product must provide photographic or other reasonable evidence when requested.
+
+Where applicable, the merchant may request return of the product for inspection before approving a refund.
+
+4. PRODUCT SWAPPED OR RETURNED IN DIFFERENT CONDITION
+
+Returned products may be inspected against the original fulfillment record.
+
+If the returned item differs materially from the item shipped, contains missing components, or shows evidence inconsistent with the reported issue, the merchant may withhold or partially adjust the refund subject to applicable consumer protection requirements.
+
+5. REFUND PROCESSING
+
+Approved refunds are normally initiated within 5 business days after the return or claim has been verified.
+
+The merchant retains transaction, fulfillment, and refund records to support dispute investigation.

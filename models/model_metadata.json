@@ -1,0 +1,30 @@
+{
+    "model_type": "XGBClassifier",
+    "model_version": "horae-risk-v1",
+    "optimal_threshold": 0.5500000000000002,
+    "features": {
+        "numerical": [
+            "account_age_days",
+            "past_orders_count",
+            "past_return_count",
+            "past_return_rate",
+            "order_amount_inr",
+            "profit_margin_inr",
+            "chargeback_fee_inr",
+            "transaction_hour",
+            "zip_delta_km",
+            "address_mismatch",
+            "velocity_15min"
+        ],
+        "categorical": [
+            "item_category",
+            "device_type",
+            "payment_method"
+        ]
+    },
+    "target": "is_risk",
+    "financial_optimization": {
+        "objective": "maximize_net_value_inr",
+        "best_net_value_inr": 11799888.17
+    }
+}

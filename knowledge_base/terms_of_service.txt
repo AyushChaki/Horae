@@ -1,0 +1,26 @@
+HORAЕ MERCHANT TERMS OF SERVICE
+Policy Version: 2026.1
+
+1. CUSTOMER RESPONSIBILITY
+
+Customers must provide accurate billing, shipping, and account information when placing an order.
+
+2. ACCOUNT SECURITY
+
+Customers are responsible for maintaining the security of their account credentials and should promptly report suspected unauthorized activity.
+
+3. TRANSACTION RECORDS
+
+The merchant maintains records associated with transactions, including transaction identifiers, order details, payment information, fulfillment information, and relevant customer communications.
+
+4. UNAUTHORIZED TRANSACTIONS
+
+For an UNAUTHORIZED_TRANSACTION dispute, the merchant may review available authentication, account, device, payment, and transaction records.
+
+Evidence may include transaction timestamps, account activity, device information, authentication records, and other available transaction metadata.
+
+5. DISPUTE REVIEW
+
+Dispute responses should be supported by relevant transaction records and applicable merchant policies.
+
+The merchant may contest a dispute where available evidence contradicts the stated dispute reason, subject to applicable payment-network and consumer-protection requirements.

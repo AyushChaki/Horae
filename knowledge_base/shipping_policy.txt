@@ -1,0 +1,30 @@
+HORAЕ MERCHANT SHIPPING & DELIVERY POLICY
+Policy Version: 2026.1
+
+1. ORDER FULFILLMENT
+
+Orders are processed using the shipping address supplied by the customer during checkout.
+
+The merchant records the order timestamp, fulfillment timestamp, shipping destination, carrier information, and tracking identifier.
+
+2. DELIVERY CONFIRMATION
+
+Carrier tracking information is considered a primary fulfillment record.
+
+A delivery event containing a successful delivery status, delivery timestamp, and destination information may be used as evidence when responding to an ITEM_NOT_RECEIVED dispute.
+
+3. DELIVERY EXCEPTIONS
+
+If tracking indicates an attempted delivery, address issue, carrier exception, or returned shipment, the merchant reviews the shipment before determining whether a refund is appropriate.
+
+4. CUSTOMER-PROVIDED ADDRESS
+
+Customers are responsible for providing an accurate shipping address during checkout.
+
+Where the order was shipped to the address supplied by the customer and carrier records confirm delivery, the merchant may use these records when contesting a non-delivery claim.
+
+5. RECORD RETENTION
+
+Shipping and fulfillment records are retained alongside the associated transaction identifier where available.
+
+Relevant records may include tracking numbers, fulfillment timestamps, delivery status, and carrier events.
