@@ -355,6 +355,7 @@ dependencies = [
     { name = "scikit-learn" },
     { name = "sentence-transformers" },
     { name = "streamlit" },
+    { name = "torch" },
     { name = "torchvision" },
     { name = "xgboost" },
 ]
@@ -370,6 +371,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.9.0" },
     { name = "sentence-transformers", specifier = ">=6.0.0" },
     { name = "streamlit", specifier = ">=1.62.0" },
+    { name = "torch", specifier = ">=2.13.0" },
     { name = "torchvision", specifier = ">=0.28.0" },
     { name = "xgboost", specifier = ">=3.4.1" },
 ]
