@@ -401,6 +401,35 @@ def retrieve_evidence(
 
     return results
 
+# ============================================================
+# SIMPLE POLICY SEARCH INTERFACE
+# ============================================================
+
+def search_policy(
+    query: str,
+    top_k: int = 3,
+) -> List[Dict]:
+    """
+    High-level policy retrieval interface.
+
+    Loads the existing FAISS index and embedding model,
+    then retrieves the most relevant policy evidence.
+
+    This function is used by the Horae orchestration layer.
+    """
+
+    index, chunks = load_index()
+
+    embedding_model = load_embedding_model()
+
+    return retrieve_evidence(
+        query=query,
+        embedding_model=embedding_model,
+        index=index,
+        chunks=chunks,
+        top_k=top_k,
+    )
+
 
 # ============================================================
 # BUILD COMPLETE RAG INDEX
