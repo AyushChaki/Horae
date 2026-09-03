@@ -26,3 +26,17 @@ Certain digital goods, personalized products, and other explicitly identified ca
 A return request does not itself constitute approval of a refund.
 
 Refunds are processed after eligibility and, where applicable, returned-product verification.
+
+6. PRODUCT NOT AS DESCRIBED
+
+For a NOT_AS_DESCRIBED dispute, the merchant may compare the product supplied against the product description, listing information, order details, SKU, specifications, and original fulfillment records.
+
+Evidence may include the product listing shown at the time of purchase, product specifications, SKU information, fulfillment records, photographs, customer communications, and returned-product inspection results.
+
+Where the fulfilled product corresponds materially to the product information and order details provided at the time of purchase, the merchant may use those records when responding to a NOT_AS_DESCRIBED dispute.
+
+Where a material difference is identified between the product supplied and the applicable product description or order information, the merchant should review the claim and available return or inspection evidence before determining the appropriate resolution.
+
+7. PRODUCT INFORMATION RECORDS
+
+The merchant may retain product descriptions, SKU information, fulfillment records, product specifications, and relevant customer communications to support investigation of product-related disputes.

@@ -30,3 +30,17 @@ If the returned item differs materially from the item shipped, contains missing 
 Approved refunds are normally initiated within 5 business days after the return or claim has been verified.
 
 The merchant retains transaction, fulfillment, and refund records to support dispute investigation.
+
+6. SUBSCRIPTION CANCELLATION AND REFUNDS
+
+For a SUBSCRIPTION_CANCELLED_REFUND dispute, the merchant may review the subscription status, cancellation timestamp, billing records, payment records, and refund records.
+
+A cancellation request does not by itself establish that a refund is due. The merchant may verify whether the subscription was successfully cancelled, whether a charge occurred before or after cancellation, and whether the applicable refund conditions were satisfied.
+
+Evidence may include cancellation timestamps, subscription status history, billing events, payment transaction records, customer communications, and refund processing records.
+
+Where a refund was approved, the merchant may provide the associated refund record and processing information when responding to the dispute.
+
+7. REFUND RECORD RETENTION
+
+The merchant retains transaction, fulfillment, subscription, cancellation, and refund records where available to support dispute investigation.
