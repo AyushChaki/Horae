@@ -12,7 +12,6 @@
 [![Mistral](https://img.shields.io/badge/Mistral-Defense%20Generation-FF7000?style=flat-square)](https://mistral.ai/)
 [![Razorpay Buildathon 2026](https://img.shields.io/badge/Razorpay%20Buildathon-2026-0F1729?style=flat-square)](#razorpay-buildathon-positioning)
 
-Built for the **Razorpay Buildathon 2026 — AI Risk Manager Track**.
 
 ---
 
